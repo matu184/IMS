@@ -49,7 +49,8 @@ public class AuthController : ControllerBase
             await _roleManager.CreateAsync(new IdentityRole(dto.Role));
 
         await _userManager.AddToRoleAsync(user, dto.Role);
-        return Ok("Registrierung erfolgreich");
+        return Ok(new { success = true, message = "Registrierung erfolgreich" });
+
     }
 
 
@@ -63,7 +64,14 @@ public class AuthController : ControllerBase
         var roles = await _userManager.GetRolesAsync(user);
 
         var token = GenerateJwtToken(user, roles);
-        return Ok(new { token });
+        return Ok(new
+        {
+            success = true,
+            message = "Login erfolgreich",
+            token,
+            role = roles.FirstOrDefault()
+        });
+
     }
 
     private string GenerateJwtToken(ApplicationUser user, IList<string> roles)

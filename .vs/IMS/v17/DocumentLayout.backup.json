@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\matu1\\source\\repos\\IMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152700_AddCateLocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS\\Migrations\\20250331152700_AddCateLocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250403134545_newRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS\\Migrations\\20250403134545_newRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\migrations\\20250331152700_addcatelocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\migrations\\20250331152700_addcatelocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152157_AddPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IMS\\Migrations\\20250331152157_AddPrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\ims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\ims.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,6 +157,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\migrations\\20250327153043_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\migrations\\20250327153043_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|c:\\users\\matu1\\source\\repos\\ims\\ims\\migrations\\20250331152157_addprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E2F3AB-2A44-4244-B60C-07F329601E13}|IMS\\IMS.csproj|solutionrelative:ims\\migrations\\20250331152157_addprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,54 +170,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250331152700_AddCateLocat.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152700_AddCateLocat.cs",
-              "RelativeDocumentMoniker": "IMS\\Migrations\\20250331152700_AddCateLocat.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152700_AddCateLocat.cs",
-              "RelativeToolTip": "IMS\\Migrations\\20250331152700_AddCateLocat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:27:01.032Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250331152157_AddPrice.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152157_AddPrice.cs",
-              "RelativeDocumentMoniker": "IMS\\Migrations\\20250331152157_AddPrice.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152157_AddPrice.cs",
-              "RelativeToolTip": "IMS\\Migrations\\20250331152157_AddPrice.cs",
+              "DocumentIndex": 1,
+              "Title": "20250403134545_newRegister.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250403134545_newRegister.cs",
+              "RelativeDocumentMoniker": "IMS\\Migrations\\20250403134545_newRegister.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250403134545_newRegister.cs",
+              "RelativeToolTip": "IMS\\Migrations\\20250403134545_newRegister.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:21:57.451Z",
+              "WhenOpened": "2025-04-03T13:45:45.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LocationsController.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\LocationsController.cs",
-              "RelativeDocumentMoniker": "IMS\\Controllers\\LocationsController.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\LocationsController.cs",
-              "RelativeToolTip": "IMS\\Controllers\\LocationsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:02:37.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Repositories\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "IMS\\Repositories\\Interfaces\\IProductRepository.cs",
@@ -225,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Program.cs",
               "RelativeDocumentMoniker": "IMS\\Program.cs",
@@ -233,12 +211,11 @@
               "RelativeToolTip": "IMS\\Program.cs",
               "ViewState": "AgIAAMYAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:26:38.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T15:26:38.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "IMS\\Controllers\\DashboardController.cs",
@@ -246,12 +223,11 @@
               "RelativeToolTip": "IMS\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T17:59:33.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T17:59:33.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "IMS\\Services\\Interfaces\\IProductService.cs",
@@ -263,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "IMS\\Services\\ProductService.cs",
@@ -275,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "IMS\\Repositories\\ProductRepository.cs",
@@ -287,7 +263,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "IMS\\Models\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:58:09.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:59:13.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "IMS\\Models\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:57:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "IMS\\Controllers\\LocationsController.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "IMS\\Controllers\\LocationsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:02:37.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250331152700_AddCateLocat.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152700_AddCateLocat.cs",
+              "RelativeDocumentMoniker": "IMS\\Migrations\\20250331152700_AddCateLocat.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152700_AddCateLocat.cs",
+              "RelativeToolTip": "IMS\\Migrations\\20250331152700_AddCateLocat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:27:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250331152157_AddPrice.cs",
+              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152157_AddPrice.cs",
+              "RelativeDocumentMoniker": "IMS\\Migrations\\20250331152157_AddPrice.cs",
+              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Migrations\\20250331152157_AddPrice.cs",
+              "RelativeToolTip": "IMS\\Migrations\\20250331152157_AddPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:21:57.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Product.cs",
               "RelativeDocumentMoniker": "IMS\\Models\\Product.cs",
@@ -295,25 +347,11 @@
               "RelativeToolTip": "IMS\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:24:43.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T15:24:43.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "IMS\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "IMS\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:59:13.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "IMS\\Controllers\\ProductsController.cs",
@@ -321,12 +359,11 @@
               "RelativeToolTip": "IMS\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:32:02.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T15:32:02.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "IMS\\Controllers\\CategoriesController.cs",
@@ -334,12 +371,11 @@
               "RelativeToolTip": "IMS\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:01:45.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:01:45.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\PagedResult.cs",
               "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\PagedResult.cs",
@@ -351,31 +387,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IMS",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\IMS.csproj",
               "RelativeDocumentMoniker": "IMS\\IMS.csproj",
               "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\IMS.csproj",
               "RelativeToolTip": "IMS\\IMS.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-31T11:22:01.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T11:22:01.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\RegisterDto.cs",
-              "RelativeToolTip": "IMS\\Models\\Dtos\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:57:32.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ILocationService.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Services\\Interfaces\\ILocationService.cs",
               "RelativeDocumentMoniker": "IMS\\Services\\Interfaces\\ILocationService.cs",
@@ -387,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\appsettings.json",
               "RelativeDocumentMoniker": "IMS\\appsettings.json",
@@ -399,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DashboardOverviewDto.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\DashboardOverviewDto.cs",
               "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\DashboardOverviewDto.cs",
@@ -411,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IDashboardService.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Services\\Interfaces\\IDashboardService.cs",
               "RelativeDocumentMoniker": "IMS\\Services\\Interfaces\\IDashboardService.cs",
@@ -423,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DashboardService.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Services\\DashboardService.cs",
               "RelativeDocumentMoniker": "IMS\\Services\\DashboardService.cs",
@@ -444,18 +467,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T17:10:08.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\LoginDto.cs",
-              "RelativeDocumentMoniker": "IMS\\Models\\Dtos\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\Dtos\\LoginDto.cs",
-              "RelativeToolTip": "IMS\\Models\\Dtos\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T16:58:09.7Z"
             },
             {
               "$type": "Document",
@@ -495,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\matu1\\source\\repos\\IMS\\IMS\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "IMS\\Models\\ApplicationUser.cs",

@@ -296,3 +296,4 @@ C:\Users\matu1\source\repos\IMS\IMS\bin\Debug\net8.0\Microsoft.IdentityModel.Pro
 C:\Users\matu1\source\repos\IMS\IMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\matu1\source\repos\IMS\IMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\matu1\source\repos\IMS\IMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\matu1\source\repos\IMS\IMS\obj\Debug\net8.0\IMS.sourcelink.json
